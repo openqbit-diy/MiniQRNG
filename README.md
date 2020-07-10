@@ -17,6 +17,10 @@ c.- MiniQRNG / Hardware. - Quantum number generator obtained using hardware base
 the quantum physics properties of a laser. Later on we will tell you how to build it at home
 at a low cost.
 
+In the extensions directory is the OpenQbitQRNGwithSSH extension which contains the blocks for the creation of QRNG (Quantum Random Number Generator) from the camera of your mobile device (smartphone).
+
+In the HandBooks directory are the user manuals for the use of the OpenQbitQRNGwithSSH extension. In this directory you will find manuals in different languages ​​(Spanish, English, Italian, French, Dutch, German, Russian, Portuguese, Japanese and Chinese)
+
 Today's cryptography is based on random number sequences. The pseudo-random number
 generators currently in use appear to provide random bit sequences, but in reality these bit
 sequences have certain patterns, so there is a risk of being hacked or otherwise manipulated
@@ -34,4 +38,4 @@ sequences used by this security system.
 
 Quantum physics uses methods based on a fundamental concept called entropy
 
-Now we create 
+More information: www.OpenQbit.com
