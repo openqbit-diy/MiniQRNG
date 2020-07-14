@@ -35,6 +35,8 @@ unpredictable. So, if a quantum random number generator is used in a security sy
 a fast supercomputer with fast arithmetic operation cannot predict the random bit
 sequences used by this security system.
 
+However, in our times the implementation of these algorithms is fundamental to be used in mobile phones, this is our goal with this extension that we share and that can be used in blockly programming or in your case, be able to use it with the option (c) of creating low cost hardware at home and usable on any platform or operating system.
+
 Quantum physics uses methods based on a fundamental concept called entropy
 
 More information:
