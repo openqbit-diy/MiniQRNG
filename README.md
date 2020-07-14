@@ -38,6 +38,7 @@ sequences used by this security system.
 Quantum physics uses methods based on a fundamental concept called entropy
 
 More information:
+
 www.OpenQbit.com
 
 The only way to transcend is to share knowledge.
