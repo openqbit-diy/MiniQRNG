@@ -14,8 +14,7 @@ b.- MiniQRNG / Software. - Random quantum number generator obtained using the ph
 properties (quantum) of the mobile phone camera.
 
 c.- MiniQRNG / Hardware. - Quantum number generator obtained using hardware based on
-the quantum physics properties of a laser. Later on we will tell you how to build it at home
-at a low cost.
+the quantum physics properties of a laser. DYI "Do It Yourself" at home with a low cost. Detailed explanation (circuit diagram, user manual, etc.) is in the directory "HandBooks".
 
 In the extensions directory is the OpenQbitQRNGwithSSH extension which contains the blocks for the creation of QRNG (Quantum Random Number Generator) from the camera of your mobile device (smartphone).
 
