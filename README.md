@@ -41,8 +41,6 @@ Quantum physics uses methods based on a fundamental concept called entropy
 
 More information:
 
-www.OpenQbit.com
+www.OpenQbit.com & www.coinsolidation.org
 
-The only way to transcend is to share knowledge.
-
-Guillermo Vidal.
+Developments launched in Estonia 2020-2021
