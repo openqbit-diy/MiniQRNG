@@ -1,4 +1,7 @@
 # MiniQRNG
+
+By www.OpenQbit.com and www.COINsolidation.org
+
 QRNG (Software &amp; Hardware) for mobile smarphones using blockly modular programming for App Inventor or other system blockly.
 
 ![MiniQRNGlogo](https://user-images.githubusercontent.com/60530547/86933344-0ec25900-c100-11ea-80a7-c86a7057dfec.png)
