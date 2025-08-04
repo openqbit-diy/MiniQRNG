@@ -48,4 +48,4 @@ www.OpenQbit.com & www.coinsolidation.org
 
 Developments launched in Estonia 2020-2021
 
-Questions or doubts info@openqbit.com / Enjoy !!! Guillermo Vidal.
+Questions or doubts info@openqbit.com / Enjoy !!! 
